@@ -46,4 +46,4 @@ Converts milliliters to cups.
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Make sure to write tests for any new functionality and ensure that all existing tests pass before submitting.
 
 ## License
-This project is licensed under the ISC License - see the LICENSE file for details.
+This project is licensed under the ISC License - see the [LICENSE](https://github.com/utku-guclu/hydration-converter/blob/main/LICENSE) file for details.
