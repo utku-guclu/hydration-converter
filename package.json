@@ -1,0 +1,31 @@
+{
+  "name": "hydration-converter",
+  "version": "1.0.0",
+  "description": "A utility package for converting milliliters to cups and vice versa with added sarcasm and edge cases.",
+  "main": "hydration-converter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utku-guclu/hydration-converter.git"
+  },
+  "keywords": [
+    "\"utility\"",
+    "\"conversion\"",
+    "\"milliliters\"",
+    "\"cups\"",
+    "\"sarcasm\"",
+    "\"edge",
+    "cases\""
+  ],
+  "author": "pisokrates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utku-guclu/hydration-converter/issues"
+  },
+  "homepage": "https://github.com/utku-guclu/hydration-converter#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
