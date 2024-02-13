@@ -19,7 +19,7 @@ yarn add hydration-converter
 You can install this package via npm:
 
 ```bash
-const { mlToCups, cupsToMl } = require('hydration-converter');
+import { mlToCups, cupsToMl } from 'hydration-converter';
 
 // Convert milliliters to cups
 console.log(mlToCups(500)); // Output: 2
