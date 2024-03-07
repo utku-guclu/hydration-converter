@@ -1,6 +1,6 @@
 {
   "name": "hydration-converter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A utility package for converting milliliters to cups and vice versa with added sarcasm and edge cases.",
   "main": "hydration-converter.js",
   "scripts": {
